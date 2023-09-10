@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Watsapp Clone</h1>
 
-<p align="center"><img src="https://thumbs.dreamstime.com/b/whats-new-logo-155631950.jpg" alt="project-image" width="100" height="100" border-radius="22"></p>
+<p align="center"><img src="https://thumbs.dreamstime.com/b/whats-new-logo-155631950.jpg" alt="project-image" width="100" height="100" border-radius="22px"></p>
 
 <p id="description">This project is made by MERN with socket.io. Use React for frontend Express for backend MongoDb for database and Socket.io for live chatting.</p>
 
