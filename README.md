@@ -1,4 +1,4 @@
-    <h1 align="center" id="title">Watsapp Clone</h1> 
+     <h1 align="center" id="title">Watsapp Clone</h1> 
 
 <p align="center"><img src="https://thumbs.dreamstime.com/b/whats-new-logo-155631950.jpg" alt="project-image" width="100" height="100" border-radius="22px"></p>
 
